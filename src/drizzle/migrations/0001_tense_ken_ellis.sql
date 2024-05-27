@@ -1,0 +1,1 @@
+ALTER TABLE "users" ADD COLUMN "timestamp1" timestamp DEFAULT now() NOT NULL;

@@ -1,0 +1,27 @@
+{
+  "version": "6",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1716559858812,
+      "tag": "0000_foamy_magdalene",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1716563830545,
+      "tag": "0001_tense_ken_ellis",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1716564419524,
+      "tag": "0002_lame_otto_octavius",
+      "breakpoints": true
+    }
+  ]
+}
